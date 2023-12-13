@@ -1,0 +1,9 @@
+flows:
+  44ff9082-061a-44d1-84c8-e6123bef1822: {ver: 1, file: ExcelOperationswithRouteandRespondUsingExecuteScript.snapshot,
+    comments: v0.1, author: anonymous, created: 1702488730257, flowName: ExcelOperationswithRouteandRespondUsingExecuteScript,
+    flowDesc: 'This data workflow reads excel files and processes data using an execute
+      script processor. Subsequently, the splittext operation splits the output and
+      again validates/normalizes data. Finally to route and respond based on success
+      and failure condition, the content is merged and put back in a file'}
+layoutVer: 1
+bucketId: f7d7e39d-a4c9-4d20-9a75-d5990496c5a6
